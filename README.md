@@ -1,5 +1,5 @@
 # Music-Composition-with-LSTM
-This project is inspired by this [article: 'Generate music with an RNN'](https://www.tensorflow.org/tutorials/audio/music_generation)
+This project is inspired by this article: [Generate music with an RNN](https://www.tensorflow.org/tutorials/audio/music_generation)
 
 You can find the [code](https://colab.research.google.com/drive/1Cg4hS01TPFtRbYKLJ26gioNBUU5rZQYA?usp=sharing) on Google Colab.
 
